@@ -1,48 +1,54 @@
-<h1 align="center">Hi, I'm Omprakash Vishwakarma 👋</h1>
-<h3 align="center">AWS Full Stack Python Developer · 12+ Years · Healthcare SaaS Specialist</h3>
+<h1 align="center">Hi there 👋 I'm Omprakash Vishwakarma</h1>
+
+<h3 align="center">AWS Full-Stack Python Developer | Django | FastAPI | Healthcare SaaS Engineer</h3>
 
 <p align="center">
-Building HIPAA-compliant, cloud-native healthcare platforms with Python, Django/FastAPI, and AWS.<br/>
-EHR/PHR integrations · HL7 &amp; FHIR APIs · Telehealth (LiveKit/WebRTC) · AI-powered care workflows
+  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/Omprakash024/readme" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Omprakash024?label=Followers&style=social" alt="Followers" />
 </p>
 
 <p align="center">
-  <a href="mailto:omprakashvishwkarma019@gmail.com"><img src="https://img.shields.io/badge/Email-omprakashvishwkarma019%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=flat&logo=vercel&logoColor=white" /></a>
+  <a href="https://YOUR-PORTFOLIO-URL"><img src="https://img.shields.io/badge/PORTFOLIO-VISIT-2ea44f?style=for-the-badge" /></a>
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:omprakashvishwkarma019@gmail.com"><img src="https://img.shields.io/badge/EMAIL-CONTACT-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://YOUR-RESUME-URL"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-000000?style=for-the-badge" /></a>
 </p>
 
 ---
 
-### 🩺 What I build
+### 🖊️ About Me
 
-US healthcare platforms — appointment booking, real-time virtual consultations, insurance/referral middleware,
-and AI-assisted care planning — with secure handling of PHI and interoperable HL7/FHIR data exchange.
+- 🏥 **12+ years** building cloud-based, HIPAA-compliant web applications for the **US Healthcare** domain
+- 🐍 Expert in **Python, Django, Django REST Framework, FastAPI**, and RESTful/async microservices
+- 🩻 Deep hands-on experience with **EHR/PHR integrations** and **HL7 / FHIR** interoperability standards
+- ☁️ Cloud-native architecture on **AWS**: EC2, Lambda, RDS, S3, API Gateway, SQS, CloudWatch, Cognito
+- 🎥 Built telehealth features with **LiveKit (WebRTC)** for real-time video/audio consultations
+- 📩 Integrated **Twilio** (SMS/Voice) and **OpenAI/NLP** for patient communication and AI-assisted care plans
 
-### 🛠️ Core stack
+### 💼 Recent Projects
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=redis&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=flat&logo=celery&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+- **MyPLAN** — AI-powered dementia care planning platform (OpenAI, LiveKit, Twilio, AWS)
+- **BlockHealth** — Insurance eligibility & referral middleware for radiology (Flask, FHIR-style APIs)
+- **Compliancely** — Compliance & business verification SaaS (Django, Celery, Redis, web crawlers)
+- **EraCLM** — Legacy modernization: Python 2→3, Django 1.6→3.2, Django Channels
 
-### 📌 Featured work
+*(Pin these — or your best public repos — via GitHub profile → "Customize your pins".)*
 
-- **MyPLAN** — AI-powered dementia care planning platform: OpenAI-driven care plans, LiveKit telehealth, Twilio reminders, on AWS (EC2/Lambda/RDS/S3/SQS).
-- **BlockHealth** — Insurance eligibility & referral middleware for radiology, FHIR-style APIs, HIPAA-compliant PHI handling.
-- **Compliancely** — Compliance/verification SaaS with high-volume web crawlers, Celery/Redis async pipelines, webhooks.
+### 🧰 Tech Stack
 
-*(Pin the 3–6 repos on GitHub that best represent these — see instructions below.)*
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 
-### 📊 GitHub stats
+### 📊 GitHub Stats
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR-USERNAME&show_icons=true&theme=default&hide_border=true" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-USERNAME&layout=compact&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Omprakash024&show_icons=true&theme=default&hide_border=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Omprakash024&layout=compact&hide_border=true" />
 </p>
