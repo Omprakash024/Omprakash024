@@ -1,10 +1,12 @@
-<h1 align="center">Hi there 👋 I'm Omprakash Vishwakarma</h1>
-
-<h3 align="center">AWS Full-Stack Python Developer | Django | FastAPI | Healthcare SaaS Engineer</h3>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:F75C7E,100:6A82FB&height=220&section=header&text=Omprakash%20Vishwakarma&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AWS%20Full-Stack%20Python%20Developer&descAlignY=58&descSize=20" />
 
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?color=blue&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/Omprakash024/readme" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/Omprakash024?label=Followers&style=social" alt="Followers" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=F75C7E&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+FastAPI+%7C+AWS;Healthcare+SaaS+%26+HIPAA-Compliant+Platforms;EHR%2FPHR+%7C+HL7+%2F+FHIR+%7C+Telehealth+(LiveKit);AI-Powered+Care+Workflows+with+OpenAI" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?color=6A82FB&label=Profile%20Views&query=count&url=https://api.countapi.xyz/hit/Omprakash024/readme&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/Omprakash024?label=Followers&style=for-the-badge&color=F75C7E&logo=github&logoColor=white" alt="Followers" />
 </p>
 
 <p align="center">
@@ -14,11 +16,11 @@
   <a href="https://YOUR-RESUME-URL"><img src="https://img.shields.io/badge/RESUME-DOWNLOAD-000000?style=for-the-badge" /></a>
 </p>
 
----
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:6A82FB,100:F75C7E&height=3" />
 
 ### 🖊️ About Me
 
-- 🏥 **12+ years** building cloud-based, HIPAA-compliant web applications for the **US Healthcare** domain
+- 🏥 Building cloud-based, HIPAA-compliant web applications for the **US Healthcare** domain
 - 🐍 Expert in **Python, Django, Django REST Framework, FastAPI**, and RESTful/async microservices
 - 🩻 Deep hands-on experience with **EHR/PHR integrations** and **HL7 / FHIR** interoperability standards
 - ☁️ Cloud-native architecture on **AWS**: EC2, Lambda, RDS, S3, API Gateway, SQS, CloudWatch, Cognito
