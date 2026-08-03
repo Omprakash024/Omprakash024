@@ -4,7 +4,7 @@
 </picture>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+FastAPI+%7C+AWS;Cloud-Native+%2B+HIPAA-Compliant+Backends;EC2+%7C+Lambda+%7C+RDS+%7C+S3+%7C+SQS;Healthcare+SaaS+%7C+AI-Powered+Workflows" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF9900&center=true&vCenter=true&width=700&lines=Python+%7C+Django+%7C+AWS+%2B+Azure;Backend+%2B+DevOps+%2B+Team+Lead;EHR+Middleware+(Athena+%2F+EPIC)+Integrations;AI+Chatbots+with+Azure+OpenAI+%2B+DALL%C2%B7E" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -21,21 +21,29 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:FF9900,100:3776AB&height=3" />
 
+<img align="right" width="180" src="avatar.png" />
+
 ### 🖊️ About Me
 
-- 🏥 Building cloud-based, HIPAA-compliant web applications for the **US Healthcare** domain
-- 🐍 Expert in **Python, Django, Django REST Framework, FastAPI**, and RESTful/async microservices
-- 🩻 Deep hands-on experience with **EHR/PHR integrations** and **HL7 / FHIR** interoperability standards
-- ☁️ Cloud-native architecture on **AWS**: EC2, Lambda, RDS, S3, API Gateway, SQS, CloudWatch, Cognito
-- 🎥 Built telehealth features with **LiveKit (WebRTC)** for real-time video/audio consultations
-- 📩 Integrated **Twilio** (SMS/Voice) and **OpenAI/NLP** for patient communication and AI-assisted care plans
+- 🚀 Backend Developer + DevOps + **Team Lead** at Thinkitive Technologies — leading teams of 4–5 engineers
+- 🐍 Building production APIs and services with **Python, Django, Django REST Framework**
+- ☁️ Multi-cloud: **AWS** (EC2, Lambda, S3, API Gateway, RDS, Cognito, CloudFront, SES) and **Azure** (Kubernetes, Key Vault, Front Door, Azure OpenAI)
+- 🏥 Built **EHR middleware** integrating patient data, appointments & SOAP notes across systems like **Athena** and **EPIC**
+- 🤖 Shipped an AI-powered chatbot using **Azure OpenAI + DALL·E**
+- ⚙️ Async workloads with **Celery, Redis, Kafka**; containerized with **Docker**; CI/CD for both AWS and Azure
+
+### 🏆 Achievements
+
+- 🥇 **Star Performer of the Year** (2nd year at Thinkitive)
+- 🌟 **"Above and Beyond" Award** (1st year at Thinkitive)
+- 🏅 **3rd place**, Company Hackathon 2023
+- 🏅 **2nd place**, System Design Competition
 
 ### 💼 Recent Projects
 
-- **MyPLAN** — AI-powered dementia care planning platform (OpenAI, LiveKit, Twilio, AWS)
-- **BlockHealth** — Insurance eligibility & referral middleware for radiology (Flask, FHIR-style APIs)
-- **Compliancely** — Compliance & business verification SaaS (Django, Celery, Redis, web crawlers)
-- **EraCLM** — Legacy modernization: Python 2→3, Django 1.6→3.2, Django Channels
+- **FKN** (Client: Joao) — Backend + DevOps, team lead of 4; database design, AWS infra (EC2, S3, CloudFront, Lambda)
+- **Plansom** (Client: Anders) — Team lead of 5; AI chatbot on Azure OpenAI + DALL·E; migrated AWS → Azure
+- **CerasHealth EHR Integration** (Client: Ceras) — Middleware for EHR data exchange with Athena & EPIC; Celery + Kafka async pipelines
 
 *(Pin these — or your best public repos — via GitHub profile → "Customize your pins".)*
 
@@ -43,15 +51,15 @@
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=FFD43B)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![DRF](https://img.shields.io/badge/Django%20REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
-![EC2](https://img.shields.io/badge/EC2-FF9900?style=for-the-badge&logo=amazonec2&logoColor=white)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white)
 ![Lambda](https://img.shields.io/badge/Lambda-FF9900?style=for-the-badge&logo=awslambda&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔥 GitHub Streak
